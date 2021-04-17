@@ -1,2 +1,2 @@
 # Wordpress Kubernets
-Deploy wordpress in kubernets
+Project to deploy **wordpress** in **kubernets**
