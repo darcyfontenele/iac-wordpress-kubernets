@@ -1,2 +1,2 @@
-# wordpress-kubernets
+# Wordpress Kubernets
 Deploy wordpress in kubernets
